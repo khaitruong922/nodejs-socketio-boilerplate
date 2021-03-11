@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-socketio-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaitruong922/nodejs-socketio-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khaitruong922/nodejs-socketio-boilerplate/issues"
+  },
+  "homepage": "https://github.com/khaitruong922/nodejs-socketio-boilerplate#readme"
+}
